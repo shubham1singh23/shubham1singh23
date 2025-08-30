@@ -103,38 +103,10 @@ console.log("Welcome to my digital world! 🌐");
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham1singh23&repo=TalentRank&theme=radical&hide_border=true&border_radius=15&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=151515" />
-        <br><br>
-        <img src="https://img.shields.io/badge/🚀%20TALENTRANK-Recruitment%20Platform-FF6B6B?style=for-the-badge&labelColor=2C3E50" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham1singh23&repo=Pollgram&theme=radical&hide_border=true&border_radius=15&title_color=4ECDC4&icon_color=45B7D1&text_color=ffffff&bg_color=151515" />
-        <br><br>
-        <img src="https://img.shields.io/badge/📊%20POLLGRAM-Social%20Media%20for%20Polls-4ECDC4?style=for-the-badge&labelColor=2C3E50" />
-        <br><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -194,10 +166,7 @@ console.log("Welcome to my digital world! 🌐");
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham1singh23&bg_color=0D1117&color=ffffff&line=FF6B6B&point=4ECDC4&area=true&custom_title=📈%20Contribution%20Activity&hide_border=true&area_color=FF6B6B" alt="Contribution Graph" />
 </div>
 
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham1singh23&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15&title=FF6B6B" alt="GitHub Trophies" />
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -219,74 +188,7 @@ console.log("Welcome to my digital world! 🌐");
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"> Let's Connect!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
-  
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/shubham-singh-9765b9287">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/shubham1singh23">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2C3E50" alt="Twitter" />
-  </a>
-  <a href="https://leetcode.com/u/shubham1singh23/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=2C3E50" alt="LeetCode" />
-  </a>
-  <a href="mailto:shubham1singh2345@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50" alt="Gmail" />
-  </a>
-  <a href="https://shubham-portfolio-swart-one.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/💬%20ASK%20ME%20ABOUT-Spring%20Boot%20•%20DSA%20•%20Java%20•%20Full%20Stack-FF6B6B?style=for-the-badge&labelColor=2C3E50" />
-  <br>
-  <img src="https://img.shields.io/badge/🤝%20COLLABORATION-Open%20Source%20Projects%20Welcome!-4ECDC4?style=for-the-badge&labelColor=2C3E50" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/📧%20EMAIL-shubham1singh2345@gmail.com-45B7D1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 🎨 Developer Interests
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257449-6ced683a-93be-44ce-9770-4999b47f8c25.gif" width="120">
-        <br><br>
-        <img src="https://img.shields.io/badge/🧠%20PROBLEM%20SOLVER-Algorithmic%20Thinking-FF6B6B?style=for-the-badge&labelColor=2C3E50" />
-        <br><sub><i>Love cracking complex coding challenges</i></sub>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257452-0e2b9573-4b26-43db-9b6e-5b8e8fe48ee5.gif" width="120">
-        <br><br>
-        <img src="https://img.shields.io/badge/💻%20CODE%20ENTHUSIAST-Always%20Learning-4ECDC4?style=for-the-badge&labelColor=2C3E50" />
-        <br><sub><i>Exploring cutting-edge technologies</i></sub>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257456-7db9e6ad-e7cf-4b41-b1df-2674e3ba32f5.gif" width="120">
-        <br><br>
-        <img src="https://img.shields.io/badge/🌐%20OPEN%20SOURCE-Community%20Builder-45B7D1?style=for-the-badge&labelColor=2C3E50" />
-        <br><sub><i>Contributing to developer ecosystem</i></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 ## 💭 Daily Motivation
 
