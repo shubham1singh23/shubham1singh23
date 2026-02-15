@@ -18,99 +18,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> About Me
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="65%" align="left">
-        
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  title: string;
-  company: string;
-  skills: string[];
-  interests: string[];
-  currentProjects: Project[];
-  goals: string[];
-}
-
-class ShubhamSingh implements Developer {
-  name = "Shubham Singh";
-  location = "🇮🇳 India";
-  title = "Full Stack Developer & AI Enthusiast";
-  company = "Building TalentRank";
-  
-  skills = [
-    "☕ Java & Spring Boot Expert",
-    "⚛️ React & Frontend Development", 
-    "🗃️ Database Design & Optimization",
-    "🧮 Data Structures & Algorithms",
-    "🔧 System Architecture & APIs",
-    "🤖 Machine Learning & AI"
-  ];
-  
-  interests = [
-    "🚀 Building scalable applications",
-    "🏆 Competitive programming challenges",
-    "🌐 Open source contributions",
-    "📚 Continuous learning & growth",
-    "💡 Innovation & problem solving"
-  ];
-  
-  currentProjects = [
-    {
-      name: "TalentRank",
-      description: "AI-powered recruitment platform",
-      tech: ["Java", "Spring Boot", "MySQL", "React"],
-      status: "🚧 In Development"
-    },
-    {
-      name: "Pollgram", 
-      description: "Social media platform for polls",
-      tech: ["React", "Node.js", "MongoDB"],
-      status: "🤝 Seeking Collaborators"
-    }
-  ];
-  
-  goals = [
-    "🎯 Master advanced AI/ML concepts",
-    "☁️ Learn cloud architecture patterns",
-    "📈 Scale applications to millions of users",
-    "🌟 Contribute to major open source projects"
-  ];
-  
-  getMotivation(): string {
-    return "Turning coffee into code, one commit at a time! ☕→💻";
-  }
-  
-  getContactInfo() {
-    return {
-      email: "shubham1singh2345@gmail.com",
-      portfolio: "https://shubham-portfolio-swart-one.vercel.app/",
-      askMeAbout: ["Spring Boot", "DSA", "Java", "Full Stack Development"]
-    };
-  }
-}
-
-const developer = new ShubhamSingh();
-console.log("Welcome to my digital world! 🌐");
-```
-        
-    
-  </table>
-</div>
 
 
 
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+
+
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257464-4e7b6c07-6c87-4721-b1dd-f47ccacb54b2.gif" width="50"> Tech Stack
 
