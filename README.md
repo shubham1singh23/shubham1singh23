@@ -87,16 +87,6 @@
 
 ---
 
-### Experience
-
-**Software Engineering Intern &nbsp;·&nbsp; Sapphire Infocom Pvt Ltd**  
-`Dec 2025 – Jan 2026` &nbsp;·&nbsp; Remote
-
-- Built **CureLink**, a full-stack MERN application supporting **3 user roles** with JWT authentication
-- Designed **8+ RESTful APIs** for appointment & medical record management, streamlining patient–doctor workflows
-- Built a responsive React frontend backed by MongoDB handling **10,000+ simulated records**
-
----
 
 ### Projects
 
