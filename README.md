@@ -110,16 +110,17 @@ public class Shubham {
 
 ---
 
-### 🏥 CureLink — Healthcare Management Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### 🩺 Disease RAG — Medical AI Chatbot
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23FF6C37.svg?style=flat-square&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%236366f1.svg?style=flat-square&logo=groq&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%238b5cf6.svg?style=flat-square&logo=databricks&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/DiseaseRagLangchain)
 
-A full-stack healthcare platform supporting **3 user roles** with secure authentication and streamlined patient-doctor workflows.
+A sophisticated medical RAG chatbot powered by LangChain, Groq & Chroma for intelligent, context-aware clinical responses.
 
-- 🔐 JWT authentication with **8+ RESTful APIs** for appointment & record management
-- 📊 MongoDB schema designed to handle **10,000+ simulated records** with smooth UI/UX across devices
+- 🧠 Retrieves from a **disease-symptom knowledge base** to generate accurate, context-aware answers
+- ⚡ Powered by **Groq** for fast inference + **ChromaDB** for vector storage and semantic retrieval
 
 ---
 
@@ -230,23 +231,6 @@ A machine learning model deployed as a real-time web application for clinical pr
 - Built **CureLink**, a full-stack MERN application supporting 3 user roles with JWT authentication
 - Developed 8+ RESTful APIs for appointment & record management, streamlining patient-doctor workflows
 - Crafted a responsive React frontend with MongoDB schema handling **10,000+ simulated records**
-
----
-
-## 🏆 Achievements
-
-<table>
-<tr>
-  <td align="center" width="50%">
-    <h3>🥇 College Topper 2023</h3>
-    <p>Secured <strong>1st Rank college-wide</strong> across all branches<br/>CGPA: <strong>9.83 / 10</strong></p>
-  </td>
-  <td align="center" width="50%">
-    <h3>🚀 Hackathon Finalist 2024</h3>
-    <p><strong>Top 8 of 50+ teams</strong> at Avalon's Innov3.0<br/>Designed & deployed a full website in <strong>48 hours</strong></p>
-  </td>
-</tr>
-</table>
 
 ---
 
