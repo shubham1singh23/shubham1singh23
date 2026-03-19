@@ -15,9 +15,7 @@
 
 <br/>
 
----
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=shubham1singh23&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 
 ### About Me
 
@@ -28,7 +26,6 @@
 📍 &nbsp;Mumbai, India  
 🔍 &nbsp;Open to **Software Engineering Internships**
 
-<br clear="right"/>
 
 ---
 
