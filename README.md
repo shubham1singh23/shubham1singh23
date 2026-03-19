@@ -1,268 +1,297 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Shubham%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Backend%20Developer%20%7C%20CS%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Shubham%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20CS%20Student&descAlignY=68&descSize=16&animation=blinking&stroke=58a6ff&strokeWidth=1" width="100%" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Production+Systems+%F0%9F%9A%80;Spring+Boot+%7C+MERN+Stack+%7C+Microservices;3rd+Year+CE+Student+%40+University+of+Mumbai;CGPA%3A+9.83+%2F+10+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Spring+Boot+%7C+Microservices+%7C+System+Design+%F0%9F%9A%80;Building+Scalable+Production+Systems+%E2%9A%99%EF%B8%8F;3rd+Year+CE+%40+University+of+Mumbai+%F0%9F%8F%9B%EF%B8%8F;CGPA%3A+9.83+%2F+10+%7C+College+Rank+%231+%F0%9F%8F%86;Open+to+Backend+%26+SWE+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-portfolio-swart-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-singh-9765b9287/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham1singh23)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham1singh2345@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://shubham-portfolio-swart-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/shubham-singh-9765b9287/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/shubham1singh23)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:shubham1singh2345@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+## ◈ About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubham1singh23&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="180" />
+
+&nbsp;&nbsp;🎓 &nbsp;**B.E. Computer Engineering** — University of Mumbai (2023–2027)
+
+&nbsp;&nbsp;🏆 &nbsp;**CGPA 9.83 / 10** — Rank **#1 College-Wide** across all branches
+
+&nbsp;&nbsp;💼 &nbsp;**Backend-focused** engineer — Spring Boot, Microservices, REST APIs
+
+&nbsp;&nbsp;🤖 &nbsp;**Exploring** Machine Learning & AI-integrated systems
+
+&nbsp;&nbsp;📍 &nbsp;Mumbai, India
+
+&nbsp;&nbsp;🔍 &nbsp;**Actively seeking** Software Engineering Internships
+
+<br clear="right"/>
+
+---
+
+## ◈ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820&labelColor=161b22)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=161b22)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599c&labelColor=161b22)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1&labelColor=161b22)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=6db33f&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=161b22)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=ffffff&labelColor=161b22)
+![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logo=apachekafka&logoColor=58a6ff&labelColor=161b22)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=postman&logoColor=ff6c37&labelColor=161b22)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=ffffff&labelColor=161b22)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-0d1117?style=flat-square&logo=hibernate&logoColor=59666c&labelColor=161b22)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff&labelColor=161b22)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6&labelColor=161b22)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248&labelColor=161b22)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28&labelColor=161b22)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed&labelColor=161b22)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=ff9900&labelColor=161b22)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032&labelColor=161b22)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37&labelColor=161b22)
+![Maven](https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=c71a36&labelColor=161b22)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=flat-square&logo=intellijidea&logoColor=fe315d&labelColor=161b22)
+
+### Core Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116&labelColor=161b22)
+![System Design](https://img.shields.io/badge/System_Design-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff&labelColor=161b22)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-0d1117?style=flat-square&logo=cplusplus&logoColor=06b6d4&labelColor=161b22)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=flat-square&logo=tensorflow&logoColor=ff6f00&labelColor=161b22)
+![OS](https://img.shields.io/badge/Operating_Systems_(Fundamentals)-0d1117?style=flat-square&logo=linux&logoColor=fcc624&labelColor=161b22)
+![CN](https://img.shields.io/badge/Computer_Networks-0d1117?style=flat-square&logo=cisco&logoColor=1ba0d7&labelColor=161b22)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ◈ Experience
 
-```java
-public class Shubham {
+<table width="100%">
+<tr>
+<td>
 
-    String[] currentFocus  = { "Spring Boot", "Microservices", "System Design" };
-    String   university    = "University of Mumbai";
-    String   degree        = "B.E. Computer Engineering (2023 – 2027)";
-    double   cgpa          = 9.83;
-    String   location      = "Mumbai, India 🇮🇳";
+### 🏢 Software Engineering Intern · Sapphire Infocom Pvt Ltd
+**Dec 2025 – Jan 2026 &nbsp;|&nbsp; Remote**
 
-    String[] askMeAbout    = { "Java", "Spring Boot", "MERN Stack", "REST APIs", "Docker" };
-    String   funFact       = "I debug in production and somehow it works 😄";
-}
-```
+- Built **CureLink**, a full-stack MERN application supporting **3 user roles** with JWT authentication
+- Designed and developed **8+ RESTful APIs** for appointment & medical record management, streamlining patient–doctor workflows
+- Built responsive React frontend backed by MongoDB schemas handling **10,000+ simulated records**
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-%236366f1.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🔧 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### 🧠 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/DSA-%236366f1.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-%238b5cf6.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-%2306B6D4.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer_Networks-%230078D4.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## ◈ Featured Projects
 
-> Hover the badges to explore live demos and source code!
+<details open>
+<summary><b>🩺 Disease RAG — Medical AI Chatbot</b></summary>
+<br/>
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab&labelColor=161b22)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=ff6c37&labelColor=161b22)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=groq&logoColor=58a6ff&labelColor=161b22)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=databricks&logoColor=8b5cf6&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/DiseaseRagLangchain)
 
-### 🩺 Disease RAG — Medical AI Chatbot
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23FF6C37.svg?style=flat-square&logo=chainlink&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-%236366f1.svg?style=flat-square&logo=groq&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%238b5cf6.svg?style=flat-square&logo=databricks&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/DiseaseRagLangchain)
-
-A sophisticated medical RAG chatbot powered by LangChain, Groq & Chroma for intelligent, context-aware clinical responses.
+A sophisticated medical RAG chatbot powered by LangChain, Groq, and ChromaDB for intelligent, context-aware clinical responses.
 
 - 🧠 Retrieves from a **disease-symptom knowledge base** to generate accurate, context-aware answers
 - ⚡ Powered by **Groq** for fast inference + **ChromaDB** for vector storage and semantic retrieval
 
----
+</details>
 
-### 💬 ChatBoot — Real-Time Messaging Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/chatboot)
+<details open>
+<summary><b>💬 ChatBoot — Real-Time Messaging Platform</b></summary>
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=ffffff&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248&labelColor=161b22)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/chatboot)
 
 A production-grade real-time chat application with blazing-fast bidirectional communication.
 
 - ⚡ Bidirectional **WebSocket** communication for instant messaging, scaling to **10,000 concurrent users**
-- 🔒 JWT-based authentication + **role-based access control** via Spring Security
+- 🔒 JWT-based authentication with **role-based access control** via Spring Security
 
----
+</details>
 
-### 📊 Pollgram — Interactive Poll Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/pollgram)
+<details open>
+<summary><b>📊 Pollgram — Interactive Poll Platform</b></summary>
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1&labelColor=161b22)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/pollgram)
 
 An interactive polling platform with real-time analytics and a seamless React frontend.
 
-- 📈 RESTful APIs for **poll creation, voting workflows, and analytics** using Spring Boot, JPA, PostgreSQL
-- 👥 Scales to **5,000+ concurrent voters** with integrated frontend
+- 📈 RESTful APIs for **poll creation, voting workflows, and analytics** using Spring Boot + JPA + PostgreSQL
+- 👥 Scales to **5,000+ concurrent voters** with integrated React frontend
 
----
+</details>
 
-### 🧩 Quiz App — Microservices Architecture
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/quiz-microservices)
+<details open>
+<summary><b>🧩 Quiz App — Microservices Architecture</b></summary>
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1&labelColor=161b22)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed&labelColor=161b22)
+![Eureka](https://img.shields.io/badge/Eureka-0d1117?style=flat-square&logo=spring&logoColor=6db33f&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/quiz-microservices)
 
 A distributed microservices system architected for scale and resilience.
 
 - 🏗️ API Gateway, **Service Discovery (Eureka)**, and inter-service communication
 - 🐳 Containerized via **Docker** with load balancing & fault tolerance — supports **20,000+ users**
 
----
+</details>
 
-### 🎨 DevsFolio — Personalized Portfolio Generator
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/DevFolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-%236366f1.svg?style=flat-square&logo=vercel&logoColor=white)](https://shubham-portfolio-swart-one.vercel.app/)
+<details>
+<summary><b>🎨 DevsFolio — Portfolio Generator &nbsp;|&nbsp; 🚗 ClickNDrive — Car Rental &nbsp;|&nbsp; 🎫 Coupon Code System &nbsp;|&nbsp; 🩺 Diabetes Prediction</b></summary>
+<br/>
 
-A dynamic MERN-stack portfolio builder that generates beautiful developer portfolios from user input.
+**🎨 DevsFolio — Personalized Portfolio Generator**
 
-- 🔄 Dynamic, reusable portfolio builder reducing creation time by **up to 30%**
-- 🌐 Fully responsive with clean REST API integration
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248&labelColor=161b22)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=ffffff&labelColor=161b22)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/DevFolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://shubham-portfolio-swart-one.vercel.app/)
 
----
-
-### 🚗 ClickNDrive — Car Rental System
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/ClickNDrive)
-
-A Firebase-powered car rental platform with real-time data and an AI-powered chatbot.
-
-- 🤖 Integrated **AI chatbot**, real-time driver interface, and booking management
-- ⚡ Firebase Realtime DB with data sync — **reduced fetch latency by ~30%** and seamless cross-device access
+Dynamic MERN-stack portfolio builder — reduces creation time by **~30%** with a clean REST API and fully responsive UI.
 
 ---
 
-### 🎫 Coupon Code System
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/gen-ai-coupon-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-%236366f1.svg?style=flat-square&logo=vercel&logoColor=white)](https://gen-ai-coupon-system.vercel.app/)
+**🚗 ClickNDrive — Car Rental System**
 
-A tamper-proof coupon distribution system built for real college events.
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/ClickNDrive)
 
-- 📧 Generates unique **time-bound QR codes** with automated email delivery to **200+ students**
-- ✅ Scanner verification API with **one-time-use validation** ensuring tamper-proof transactions
+Firebase-powered rental platform with AI chatbot, real-time driver interface, and booking management — **~30% reduction in fetch latency**.
 
 ---
 
-### 🩺 Diabetes Prediction System
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-[![GitHub](https://img.shields.io/badge/Source-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/shubham1singh23/diabetes-prediction)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-%236366f1.svg?style=flat-square&logo=vercel&logoColor=white)](https://shubham-portfolio-swart-one.vercel.app/)
+**🎫 Coupon Code System**
 
-A machine learning model deployed as a real-time web application for clinical predictions.
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=161b22)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=ffffff&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248&labelColor=161b22)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/gen-ai-coupon-system)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://gen-ai-coupon-system.vercel.app/)
 
-- 🧪 Logistic Regression model achieving **85% accuracy** on medical datasets
-- 🌐 Deployed via **Flask** with a user-friendly interface for real-time predictions
+Tamper-proof coupon system built for real college events — generates unique **time-bound QR codes** with automated email delivery to **200+ students** and one-time-use scanner verification.
 
 ---
 
-## 💼 Experience
+**🩺 Diabetes Prediction System**
 
-### 🏢 Software Engineering Intern — Sapphire Infocom Pvt Ltd
-`December 2025 – January 2026` | 📍 Remote
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab&labelColor=161b22)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff&labelColor=161b22)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f7931e&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/shubham1singh23/diabetes-prediction)
 
-- Built **CureLink**, a full-stack MERN application supporting 3 user roles with JWT authentication
-- Developed 8+ RESTful APIs for appointment & record management, streamlining patient-doctor workflows
-- Crafted a responsive React frontend with MongoDB schema handling **10,000+ simulated records**
+Logistic Regression model achieving **85% accuracy** on medical datasets — deployed via Flask with a real-time prediction interface.
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## ◈ Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubham1singh23&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1singh23&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shubham1singh23&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubham1singh23&theme=tokyonight&column=7&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+| 🥇 College Topper | 🚀 Hackathon Finalist |
+|:---:|:---:|
+| **Rank #1 College-Wide** across all branches | **Top 8 of 50+ teams** — Avalon's Innov3.0 |
+| CGPA **9.83 / 10** | Designed & deployed a full website in **48 hours** |
 
 </div>
 
 ---
 
+## ◈ GitHub Activity
+
 <div align="center">
 
-### 💬 Let's connect and build something awesome together!
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-portfolio-swart-one.vercel.app/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=120&section=footer" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubham1singh23&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1singh23&layout=compact&theme=github_dark&border_radius=10&hide_border=true&langs_count=8&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="170" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shubham1singh23&theme=github-dark-blue&border_radius=10&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham1singh23&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff" width="95%" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubham1singh23&theme=onestar&column=7&no-frame=true&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B;Let%27s+build+something+great+together!;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://shubham-portfolio-swart-one.vercel.app/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer&reversal=false" width="100%" />
