@@ -20,7 +20,7 @@
 ### About Me
 
 🎓 &nbsp;**B.E. Computer Engineering** — University of Mumbai `2023 – 2027`  
-🏆 &nbsp;**CGPA 9.83 / 10** — Rank **#1 College-Wide**  
+🏆 &nbsp;**CGPA 9.71/ 10
 💼 &nbsp;Focused on **Backend Engineering** — Spring Boot, Microservices  
 🤖 &nbsp;Interested in **Machine Learning** & AI-powered systems  
 📍 &nbsp;Mumbai, India  
