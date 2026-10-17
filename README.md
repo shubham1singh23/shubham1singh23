@@ -41,7 +41,6 @@ B.E. Computer Engineering, University of Mumbai (2023 – 2027) · CGPA 9.71 / 1
 
 - **LinkedIn:** [linkedin.com/in/shubham-singh-9765b9287](https://linkedin.com/in/shubham-singh-9765b9287/)
 - **Email:** [shubham1singh2345@gmail.com](mailto:shubham1singh2345@gmail.com)
-- **Resume:** [Download PDF](RESUME_LINK_HERE)
 - **Portfolio:** [shubham-portfolio-swart-one.vercel.app](https://shubham-portfolio-swart-one.vercel.app/)
 
 Open to Software Engineering internships, backend roles especially.
